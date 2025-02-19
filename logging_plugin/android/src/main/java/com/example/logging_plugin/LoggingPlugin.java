@@ -68,3 +68,4 @@ public class LoggingPlugin implements FlutterPlugin, MethodCallHandler {
         channel.setMethodCallHandler(null);
     }
 }
+
